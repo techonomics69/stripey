@@ -1,0 +1,2 @@
+# stripey
+Created with CodeSandbox
